@@ -82,7 +82,7 @@ https://github.com/sturobson/Awesome-Design-Tokens
 
 				- z-Index
 
-			- Media Query / Breakpoint
+			- Media Query / Breakpoint (curve)
 
 			- Grid
 
@@ -136,7 +136,7 @@ https://github.com/sturobson/Awesome-Design-Tokens
 
 		- Typography
 
-			- Size
+			- Size (curve)
 
 			- Line Height
 
